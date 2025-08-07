@@ -1,0 +1,32 @@
+{
+  "name": "kdt-server-client-11-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbusunho/KDT-SERVER-CLIENT-11-ex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbusunho/KDT-SERVER-CLIENT-11-ex/issues"
+  },
+  "homepage": "https://github.com/kbusunho/KDT-SERVER-CLIENT-11-ex#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "index.js": "^0.0.3",
+    "mongoose": "^8.17.0",
+    "node": "^22.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
